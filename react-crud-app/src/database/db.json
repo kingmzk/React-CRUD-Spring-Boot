@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "ERINA",
+      "username": "Arina",
+      "email": "erina@gmail.com",
+      "phone": "9448588646",
+      "id": 1
+    },
+    {
+      "name": "MOHAMMED ZAKRIA KHAN",
+      "username": "king_mzk",
+      "email": "mohammedzakriakhanz@gmail.com",
+      "phone": "+91 9019108181",
+      "id": 2
+    },
+    {
+      "name": "siddiq",
+      "username": "siddiqpasha2013@gmail.com",
+      "email": "siddiqpasha2013@gmail.com",
+      "phone": "4569874563",
+      "id": 3
+    }
+  ]
+}
